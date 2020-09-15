@@ -1,13 +1,13 @@
 * {
     font-family: 'Lucida Grande', sans-serif;
     color: #FFFFFF;
-    background-color: #000000;
+    background: #000000;
 
 }
 
 h1 {
     font-size: 64px;
-    text-align: center;
+    align-items: center;
 }
 
 h2 {
